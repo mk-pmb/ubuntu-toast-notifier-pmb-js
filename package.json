@@ -1,5 +1,5 @@
 { "name": "ubuntu-toast-notifier-pmb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Desktop toast popups for Ubuntu, with fallback to xmessage.",
   "keywords": [
     "notification",
@@ -28,6 +28,7 @@
     "absdir": "^1.0.6"
   },
   "devDependencies": {
+    "equal-pmb": "^0.1.28",
     "eslint-config-nodejs-pmb": "^0.3.6",
     "eslint-plugin-json-light-pmb": "^1.0.7",
     "eslint-plugin-n": "^17.10.2",
